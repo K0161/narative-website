@@ -236,11 +236,11 @@ sup {
 }
 
 a {
-  color: #ffc800;
+  color: #00498D;
   text-decoration: underline;
 }
 a:hover {
-  color: #cca000;
+  color: #00498D;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -3471,7 +3471,7 @@ textarea.form-control-lg {
 
 .btn-link {
   font-weight: 400;
-  color: #ffc800;
+  color: #00498D;
   text-decoration: underline;
 }
 .btn-link:hover {
@@ -3780,7 +3780,7 @@ textarea.form-control-lg {
 .dropdown-item.active, .dropdown-item:active {
   color: #fff;
   text-decoration: none;
-  background-color: #ffc800;
+  background-color: #00498D;
 }
 .dropdown-item.disabled, .dropdown-item:disabled {
   color: #adb5bd;
@@ -11410,7 +11410,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: linear-gradient(to bottom, rgba(0, 11, 24, 0.8) 0%, rgba(0, 73, 141, 0.8) 85%), url("../assets/img/manchester-city-day.jpg");
+  background-image: linear-gradient(to bottom, rgba(179, 179, 179, 0.8) 0%, rgba(0, 73, 141, 0.8) 85%), url("../assets/img/manchester-city-day.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
