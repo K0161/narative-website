@@ -11410,7 +11410,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/manchester-city-day.jpg");
+  background-image: linear-gradient(to bottom, rgba(0, 73, 141, 0.8) 0%, rgba(0, 11, 24, 0.8) 85%), url("../assets/img/manchester-city-day.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
