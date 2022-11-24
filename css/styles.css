@@ -158,6 +158,11 @@ p {
   margin-bottom: 1rem;
 }
 
+blockquote {
+  font-style: italic;
+  color: #482f87;
+}
+
 abbr[title],
 abbr[data-bs-original-title] {
   -webkit-text-decoration: underline dotted;
@@ -11433,7 +11438,7 @@ header.masthead .masthead-heading {
 
 @media (min-width: 768px) {
   header.masthead {
-    padding-top: 17rem;
+    padding-top: 13.5rem;
     padding-bottom: 12.5rem;
   }
   header.masthead .masthead-subheading {
